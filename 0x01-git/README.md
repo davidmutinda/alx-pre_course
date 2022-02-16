@@ -1,1 +1,2 @@
-This is the first directory in this repo
+This is an update of this README file
+
