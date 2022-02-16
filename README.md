@@ -1,4 +1,3 @@
 ## alx-pre_course
 
-This is my first repository of the alx programme.
-
+This is the first repo of the alx programme.
